@@ -1,3 +1,3 @@
 # Yuiba
 
-Latest builds for Yuiba app.
+Yuiba builds for testers. The code lives elsewhere.
